@@ -1,0 +1,31 @@
+[
+	{
+		"nombreCampana":"Camp. ApiService",
+		"filtro":{
+			"centros":[
+				{
+					"id":"c7e1f17b-45c6-45e0-b981-a5f800212bef",
+					"name":"ALAMEDA"
+				},
+				{
+					"id":"058e0bff-0545-481c-b1b2-a5f8002121ef",
+					"name":"CHILLAN"
+				},
+				{
+					"id":"3bf0eaa7-a8c9-4d9c-aa40-a8ae00ef7c0a",
+					"name":"PEDRO DE VALDIVIA"
+				}
+			],
+			"servicios":[],
+			"profesionales":[],
+			"canalAgendamiento":["CallCenter"],
+			"sobrecupo":[],
+			"horaCita":[]
+		},
+		"periocidad":
+			{
+				"diaDescarga":[0,1,2,3],
+				"horaDescarga":["10:00"]
+			}
+	}
+]
